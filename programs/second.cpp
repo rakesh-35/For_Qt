@@ -32,5 +32,7 @@ int main(){
     Daughter daughter;
     Mother mother;
     mother.display();
+
+    cout << "Added a new method to check if i push the code to git"
 }
 
